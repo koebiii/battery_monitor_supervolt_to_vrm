@@ -2,7 +2,9 @@
 
 Connect the Supervolt v3 Bely Battery Management System to a Raspberry Pi running Venus OS which can then be connected to the VRM portal. Available data can be used for monitoring, analysis, setting trigger conditions and notifications, both via web interface and app.
 
-![setup](https://github.com/koebiii/battery_monitor_vrm/assets/22169369/392c8794-7f96-4fbc-9dd7-1434e7b14437)
+### Setup
+
+[setup.pdf](https://github.com/user-attachments/files/16105433/setup.pdf)
 
 ### Note:
 
