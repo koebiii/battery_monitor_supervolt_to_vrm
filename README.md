@@ -8,7 +8,7 @@ Connect the Supervolt v3 Bely Battery Management System to a Raspberry Pi runnin
 
 ![setup](https://github.com/koebiii/battery_monitor_supervolt_to_vrm/assets/22169369/851fab3e-e4f3-4a09-9f00-cc1caf64fdca)
 
-### Note:
+### Note
 
 This is a private project. Work in progress.
 
